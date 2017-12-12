@@ -29,7 +29,7 @@
     <version>5.7.1.Final-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Narayana Quickstarts: JBTM, IronJacamar, and Tomcat</name>
+    <name>Narayana Quickstarts: JBTM, IronJacamar, and Tomcat yhes</name>
     <description>JBTM and IronJacamar on Tomcat examle</description>
 
     <url>http://jboss.org/jbosstm</url>
